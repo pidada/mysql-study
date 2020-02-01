@@ -14,14 +14,6 @@
 - **《SQL必知必会》**
 - [SqlZoo练习](https://sqlzoo.net/)
 
-> ![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbg2u13zolj30c806wq3p.jpg)
-
-> ![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbg2s5za7ej30u0140dm8.jpg)
-
-> ![image-20200131215222887](https://tva1.sinaimg.cn/large/006tNbRwgy1gbg33gk5cfj30o408mwfv.jpg)
-
-
-
 ### MySQL安装
 
 `MySQL`现在主要是`5.X`和`8.0`；本文中介绍的是在`Ubuntu18.04`中如何安装[MySQL5.7](https://www.jianshu.com/p/430f61337a2e)
@@ -104,7 +96,6 @@
 
 `sqlzoo`是一个专门用来练习`SQL`语句查询的网站，上面分成了各个板块或者语句。先是网站的例题，用户可以稍微修改提交，然后有各种由简到难的查询练习，很适合学习`SQL`的小伙伴进行入门。
 
-> ![](https://tva1.sinaimg.cn/large/006tNbRwgy1gbg4e1firuj30l50h0abv.jpg)
 
 #### select子句顺序
 
